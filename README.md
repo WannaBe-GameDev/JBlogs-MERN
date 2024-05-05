@@ -1,6 +1,6 @@
 # Blogging Web Application using MERN Stack
 
-![Blogging Web Application](https://yourimageurlhere.com)
+[![DEMO VIDEO](https://img.youtube.com/vi/fToSzq6u9HM?si=gJwrsxRaKhWBvcRe/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/fToSzq6u9HM?si=FW0nKDUuvDQcXFSZ))
 
 ## Introduction
 This project is a Blogging Web Application built from scratch using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The primary objective was to gain hands-on experience with basic CRUD operations in MongoDB while also delving into the development of a full-fledged web application using React, Express and MongoDB.
@@ -31,7 +31,10 @@ This project is a Blogging Web Application built from scratch using the MERN (Mo
 6. Start the frontend development server: `npm start` (in the client directory).
 7. Access the application at `http://localhost:3000` in your browser.
 
+## Screenshots
 
+
+![edit](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/dca7bfdd-fdab-4bcb-98eb-7ed51277b7b0)
 
 
 
