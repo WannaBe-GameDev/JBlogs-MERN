@@ -35,8 +35,4 @@ This project is a Blogging Web Application built from scratch using the MERN (Mo
 
 
 
-## Demo
-[Provide a link to a live demo, if available].
 
-## Contact
-For any inquiries, reach out to [your email address or contact information].
