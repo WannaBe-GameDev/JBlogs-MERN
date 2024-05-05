@@ -3,7 +3,7 @@
 ![Blogging Web Application](https://yourimageurlhere.com)
 
 ## Introduction
-This project is a Blogging Web Application built from scratch using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The primary objective was to gain hands-on experience with basic CRUD operations in MongoDB while also delving into the development of a full-fledged web application using React and Express.
+This project is a Blogging Web Application built from scratch using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The primary objective was to gain hands-on experience with basic CRUD operations in MongoDB while also delving into the development of a full-fledged web application using React, Express and MongoDB.
 
 ## Functionalities
 1. **Register:** Users can register for an account by providing necessary details.
