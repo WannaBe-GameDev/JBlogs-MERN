@@ -14,11 +14,11 @@ This project is a Blogging Web Application built from scratch using the MERN (Mo
 ## Tools/Concepts Used
 - **CORS:** Cross-Origin Resource Sharing for secure communication between frontend and backend.
 - **React Context:** Used for state management, providing a centralized data store accessible throughout the application.
+- **React Libraries/Middleware:** Utilized utilize an array of React features and supplementary libraries, including ReactQuill, Multer, and Bcrypt for styling, data handling and encryption.
 - **Mongoose:** Object Data Modeling (ODM) library for MongoDB and Node.js, facilitating schema-based solutions.
 - **Relationships with NoSQL DBs:** Implementing relationships between data entities in MongoDB.
 - **Cookies & Sessions:** Utilized for user authentication and maintaining user sessions.
 - **CSS:** Custom styling for an attractive user interface.
-
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
