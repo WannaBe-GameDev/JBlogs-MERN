@@ -1,6 +1,9 @@
 # Blogging Web Application using MERN Stack
 
-[![DEMO VIDEO](https://img.youtube.com/vi/fToSzq6u9HM?si=gJwrsxRaKhWBvcRe/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/fToSzq6u9HM?si=FW0nKDUuvDQcXFSZ))
+
+https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/00f0cc4b-489e-4e80-b9c8-1058b7d2dd64
+
+
 
 ## Introduction
 This project is a Blogging Web Application built from scratch using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The primary objective was to gain hands-on experience with basic CRUD operations in MongoDB while also delving into the development of a full-fledged web application using React, Express and MongoDB.
@@ -33,8 +36,31 @@ This project is a Blogging Web Application built from scratch using the MERN (Mo
 
 ## Screenshots
 
+![Landing](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/549c568c-d955-400a-acc9-a32ed72b2736)
+
+![Post](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/a8cfb14a-df42-4cdc-a98d-216d7d7d3d7a)
+
+![Login](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/1776431a-ee06-4386-82de-371c53381ef2)
+
+![Landing after logged](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/a4ed6af2-7d5b-408e-88e6-03292fc4b41e)
+
+![register](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/d7b1444b-7e48-4d84-b293-4806fa3ce493)
+
+![New Post](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/e7bdfacf-105f-47c3-81ca-de6c04598b18)
 
 ![edit](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/dca7bfdd-fdab-4bcb-98eb-7ed51277b7b0)
+
+![Delete](https://github.com/WannaBe-GameDev/MERN-Blogging-Platform/assets/92078127/6ecc4b76-74ee-4fec-a28c-b8eb4fd2de1b)
+
+
+
+
+
+
+
+
+
+
 
 
 
