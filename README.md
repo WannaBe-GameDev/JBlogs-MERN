@@ -13,6 +13,8 @@ This project is a Blogging Web Application built from scratch using the MERN (Mo
 2. **Login:** Registered users can log in securely to access their account.
 3. **Create Posts:** Authenticated users can create new blog posts with titles, content, and any additional media.
 4. **Read Posts:** Users can view existing blog posts on the platform.
+5. **Update Posts:** Users can update existing blog posts on the platform.
+6. **Delete Posts:** Users can delete existing blog posts on the platform.
 
 ## Tools/Concepts Used
 - **CORS:** Cross-Origin Resource Sharing for secure communication between frontend and backend.
